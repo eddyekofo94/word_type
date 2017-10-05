@@ -3,5 +3,7 @@
   "name": "eddyekofo",
   "author": "Eddy Ekofo",
   "contact": "contact@eddyekofo.com",
-  "description": ""
+  "description": "A game using JS, trying new things",
+  "version": "1.0.0",
+  "main": "main.js"
 }
