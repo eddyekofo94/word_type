@@ -1,2 +1,2 @@
 # Word Type
-A game using JS
+A game using TS
