@@ -5,5 +5,8 @@
   "contact": "contact@eddyekofo.com",
   "description": "A game using JS, trying new things",
   "version": "1.0.0",
-  "main": "main.js"
+  "main": "main.js",
+  "dependencies": {
+    "typescript": "^2.5.3"
+  }
 }
