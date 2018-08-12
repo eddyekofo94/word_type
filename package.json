@@ -4,9 +4,10 @@
   "description": "A quick WebGL game, trying new things",
   "main": "main.js",
   "scripts": {
+    "start": "node --inspect -r ts-node/register src/server.ts",
+    "dev": "./node_modules/nodemon/bin/nodemon.js",
     "test": "jest",
-    "test:watch": "jest --watch",
-    "start": "tsc && node build/server.js"
+    "test:watch": "jest --watch"
   },
   "jest": {
     "transform": {
