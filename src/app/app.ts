@@ -1,5 +1,5 @@
 newFunction();
 
 function newFunction() {
-    console.log("Hello ");
+    console.log("Helo my brother  ");
 }

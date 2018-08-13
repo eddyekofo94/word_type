@@ -1,6 +1,6 @@
 "use strict";
 newFunction();
 function newFunction() {
-    console.log("Hello ");
+    console.log("Helo my brother  ");
 }
 //# sourceMappingURL=app.js.map
