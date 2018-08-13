@@ -1,5 +1,6 @@
-newFunction();
+import {Game} from 'phaser'
 
-function newFunction() {
-    console.log("Helo my brother  ");
-}
+new Game({
+    width: 800,
+    height: 800
+})
